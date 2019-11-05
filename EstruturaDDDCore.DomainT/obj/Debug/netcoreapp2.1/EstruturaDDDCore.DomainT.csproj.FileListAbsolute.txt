@@ -1,0 +1,12 @@
+D:\Projetos\EstruturaDDDCore.DomainT\bin\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.deps.json
+D:\Projetos\EstruturaDDDCore.DomainT\bin\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.dll
+D:\Projetos\EstruturaDDDCore.DomainT\bin\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.pdb
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.csprojAssemblyReference.cache
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.csproj.CoreCompileInputs.cache
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.AssemblyInfoInputs.cache
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.AssemblyInfo.cs
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.dll
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.pdb
+D:\Projetos\EstruturaDDDCore.DomainT\bin\Debug\netcoreapp2.1\EstruturaDDCore.Domain.Core.dll
+D:\Projetos\EstruturaDDDCore.DomainT\bin\Debug\netcoreapp2.1\EstruturaDDCore.Domain.Core.pdb
+D:\Projetos\EstruturaDDDCore.DomainT\obj\Debug\netcoreapp2.1\EstruturaDDDCore.DomainT.csproj.CopyComplete
