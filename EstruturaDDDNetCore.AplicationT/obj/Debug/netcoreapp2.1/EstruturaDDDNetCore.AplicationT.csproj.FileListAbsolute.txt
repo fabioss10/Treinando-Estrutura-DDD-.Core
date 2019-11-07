@@ -1,9 +1,8 @@
 D:\Projetos\EstruturaDDDNetCore.AplicationT\bin\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.deps.json
 D:\Projetos\EstruturaDDDNetCore.AplicationT\bin\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.dll
 D:\Projetos\EstruturaDDDNetCore.AplicationT\bin\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.pdb
-D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.csprojAssemblyReference.cache
-D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.csproj.CoreCompileInputs.cache
 D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.AssemblyInfoInputs.cache
 D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.AssemblyInfo.cs
 D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.dll
 D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.pdb
+D:\Projetos\EstruturaDDDNetCore.AplicationT\obj\Debug\netcoreapp2.1\EstruturaDDDNetCore.AplicationT.csprojAssemblyReference.cache
