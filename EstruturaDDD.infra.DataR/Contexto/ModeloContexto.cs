@@ -1,5 +1,6 @@
 ﻿
 
+using EstruturaDDDCore.Domain.Entities;
 using EstruturaDDDCore.DomainT.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -30,16 +31,6 @@ public class ModeloContexto : DbContext
 
 
     }
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
-        modelBuilder.Entity<Cliente>()
-            .Property(e => e.Nome)
-            .HasColumnType("varchar(150)")
-            .IsRequired();
-
-        modelBuilder.Entity<Cliente>()
-            .ToTable("Cliente");
-
-    }
+    
 
 }

@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDDD.Domain", "Estr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDDD.infra.DataR", "EstruturaDDD.infra.DataR\EstruturaDDD.infra.DataR.csproj", "{A57AEE2A-5649-4110-8E8C-4C2868D043E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDDD", "EstruturaDDD\EstruturaDDD.csproj", "{912AC2CF-4DEA-40D7-9229-A27F8CFE76B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDDD", "EstruturaDDD\EstruturaDDD.csproj", "{912AC2CF-4DEA-40D7-9229-A27F8CFE76B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
