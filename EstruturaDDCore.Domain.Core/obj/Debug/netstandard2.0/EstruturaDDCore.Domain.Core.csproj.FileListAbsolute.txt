@@ -1,0 +1,8 @@
+D:\Projetos\EstruturaDDCore.Domain.Core\bin\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.deps.json
+D:\Projetos\EstruturaDDCore.Domain.Core\bin\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.dll
+D:\Projetos\EstruturaDDCore.Domain.Core\bin\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.pdb
+D:\Projetos\EstruturaDDCore.Domain.Core\obj\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.csprojAssemblyReference.cache
+D:\Projetos\EstruturaDDCore.Domain.Core\obj\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.AssemblyInfoInputs.cache
+D:\Projetos\EstruturaDDCore.Domain.Core\obj\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.AssemblyInfo.cs
+D:\Projetos\EstruturaDDCore.Domain.Core\obj\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.dll
+D:\Projetos\EstruturaDDCore.Domain.Core\obj\Debug\netstandard2.0\EstruturaDDCore.Domain.Core.pdb

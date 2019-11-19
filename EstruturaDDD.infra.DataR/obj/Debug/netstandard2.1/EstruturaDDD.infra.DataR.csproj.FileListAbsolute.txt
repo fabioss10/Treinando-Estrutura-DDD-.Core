@@ -1,0 +1,13 @@
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDD.infra.DataR.deps.json
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDD.infra.DataR.dll
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDD.infra.DataR.pdb
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDCore.Domain.Core.dll
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDD.Domain.dll
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDD.Domain.pdb
+D:\Projetos\EstruturaDDD.infra.DataR\bin\Debug\netstandard2.1\EstruturaDDCore.Domain.Core.pdb
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.csprojAssemblyReference.cache
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.AssemblyInfoInputs.cache
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.AssemblyInfo.cs
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.csproj.CopyComplete
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.dll
+D:\Projetos\EstruturaDDD.infra.DataR\obj\Debug\netstandard2.1\EstruturaDDD.infra.DataR.pdb

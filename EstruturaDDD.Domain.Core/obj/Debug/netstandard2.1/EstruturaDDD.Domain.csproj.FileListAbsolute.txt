@@ -1,0 +1,11 @@
+D:\Projetos\EstruturaDDD.Domain.Core\bin\Debug\netstandard2.1\EstruturaDDD.Domain.deps.json
+D:\Projetos\EstruturaDDD.Domain.Core\bin\Debug\netstandard2.1\EstruturaDDD.Domain.dll
+D:\Projetos\EstruturaDDD.Domain.Core\bin\Debug\netstandard2.1\EstruturaDDD.Domain.pdb
+D:\Projetos\EstruturaDDD.Domain.Core\bin\Debug\netstandard2.1\EstruturaDDCore.Domain.Core.dll
+D:\Projetos\EstruturaDDD.Domain.Core\bin\Debug\netstandard2.1\EstruturaDDCore.Domain.Core.pdb
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.csprojAssemblyReference.cache
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.AssemblyInfoInputs.cache
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.AssemblyInfo.cs
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.csproj.CopyComplete
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.dll
+D:\Projetos\EstruturaDDD.Domain.Core\obj\Debug\netstandard2.1\EstruturaDDD.Domain.pdb
