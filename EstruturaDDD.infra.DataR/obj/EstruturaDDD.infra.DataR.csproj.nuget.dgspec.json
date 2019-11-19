@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj": {}
+    "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj": {
+    "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
+        "projectUniqueName": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
         "projectName": "EstruturaDDCore.Domain.Core",
-        "projectPath": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\Fabio dos Santos\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\obj\\",
+        "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\fabiosilva\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fabio dos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabiosilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bibliotecas.aneel.net/nuget/": {},
+          "http://packages.dev.aneel.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,20 +61,20 @@
         }
       }
     },
-    "D:\\Projetos\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj": {
+    "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj",
+        "projectUniqueName": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj",
         "projectName": "EstruturaDDD.Domain",
-        "projectPath": "D:\\Projetos\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\Fabio dos Santos\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\EstruturaDDD.Domain.Core\\obj\\",
+        "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabiosilva\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fabio dos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabiosilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,13 +82,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bibliotecas.aneel.net/nuget/": {},
+          "http://packages.dev.aneel.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj": {
-                "projectPath": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj"
+              "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj": {
+                "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj"
               }
             }
           }
@@ -124,20 +128,20 @@
         }
       }
     },
-    "D:\\Projetos\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj": {
+    "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj",
+        "projectUniqueName": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj",
         "projectName": "EstruturaDDD.infra.DataR",
-        "projectPath": "D:\\Projetos\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj",
-        "packagesPath": "C:\\Users\\Fabio dos Santos\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\EstruturaDDD.infra.DataR\\obj\\",
+        "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.infra.DataR\\EstruturaDDD.infra.DataR.csproj",
+        "packagesPath": "C:\\Users\\fabiosilva\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.infra.DataR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fabio dos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabiosilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -145,13 +149,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bibliotecas.aneel.net/nuget/": {},
+          "http://packages.dev.aneel.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Projetos\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj"
+              "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj": {
+                "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDD.Domain.Core\\EstruturaDDD.Domain.csproj"
               }
             }
           }

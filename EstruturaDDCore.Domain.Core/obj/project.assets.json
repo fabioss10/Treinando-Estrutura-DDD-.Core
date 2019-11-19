@@ -8,23 +8,23 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Fabio dos Santos\\.nuget\\packages\\": {},
+    "C:\\Users\\fabiosilva\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
+      "projectUniqueName": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
       "projectName": "EstruturaDDCore.Domain.Core",
-      "projectPath": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
-      "packagesPath": "C:\\Users\\Fabio dos Santos\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\EstruturaDDCore.Domain.Core\\obj\\",
+      "projectPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\EstruturaDDCore.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\fabiosilva\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\GitHub\\Treinando-Estrutura-DDD-.Core\\EstruturaDDCore.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fabio dos Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fabiosilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://bibliotecas.aneel.net/nuget/": {},
+        "http://packages.dev.aneel.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
